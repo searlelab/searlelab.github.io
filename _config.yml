@@ -18,21 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Searle Research Group in Proteome Informatics
+email: searle.30@osu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Searle Lab develops bioinformatics, mass spectrometry, and proteomics technologies as part of the Department of Biomedical Informatics and the Pelatonia Institute for Immuno-Oncology at the Ohio State University. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://searlelab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: briansearle
+github_username:  searlelab
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+navbar-links:
+  Research: "research"
+  Publications: "pubs"
+  Team: "team"
+  Join: "join"
+  Contact: "contactus"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
