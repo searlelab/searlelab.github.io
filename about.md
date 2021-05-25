@@ -1,0 +1,26 @@
+---
+title: About
+permalink: /about/
+---
+
+### About us
+The Searle Lab develops bioinformatics, mass spectrometry, and proteomics technologies as part of the Department of Biomedical Informatics and the Pelatonia Institute for Immuno-Oncology at the Ohio State University. We have a focus in cancer research, but are interested in all aspects of mass spectrometry data analysis.
+
+### Research
+Making sense of data is one of the biggest problems in proteomics. We make software to interpret mass spectrometry data from proteomics and metabolomics datasets. Our work specializes in making proteomics data generation and analysis both more approachable and more reproducible. We also have a dedicated mass spectrometry lab where we can develop new data acquisition technologies and run our own experiments at the Pelatonia Institute for Immuno-Oncology. Visit our [research page](../research/) to see more information on each project.
+
+### Lab Members
+
+Our research group is remarkably interdisciplinary. We have backgounds in bioinformatics, chemistry, biology, statistics, computer science, and many other disciplines. Visit our [people page](../people/) to see more information on each person who works in the lab (publications, contact information, photos).
+
+### Lab Culture
+Our lab is a great place to develop as a scientist. We value…
+- Independence, cleverness, and tenacity
+- Self learning, but knowing when you need help
+- Communication through papers & conferences
+- Teaching methods and open-source software
+- Cross training, since no one has every skill
+- Helping you make the next move in your career, wherever that will be
+
+### Source
+The Jekyll source code repository for [Searle lab page](http://searlelab.github.io/) is on Github [here](https://github.com/searlelab/searlelab.github.io). Our lab website code is modified from open source software produced by the [kordinglab.com](http://kordinglab.github.io/).
