@@ -27,7 +27,7 @@ permalink: /software/
 
 {% if role != 'deprecated' %}
 <div class="content list people">
-  {% for profile in people_sorted %}
+  {% for profile in people_sorted reversed %}
     {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
