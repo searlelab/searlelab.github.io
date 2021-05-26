@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 <img src="{{site.baseurl}}/images/research/research_structure.png" data-action="zoom">
-Our lab works on bioinformatics, mass spectrometry, and proteomics technologies as part of the Department of Biomedical Informatics and the Pelatonia Institute for Immuno-Oncology at the Ohio State University. We are interested in developing new methods that improve all aspects of the proteomics workflow, from data acquisition, to extraction and statistical analysis. We are dedicated to open methods and open source software, as well as the long-term support for those computational resources for the proteomics and mass spectrometry communities.
+Our lab works on bioinformatics, mass spectrometry, and proteomics technologies as part of the Department of Biomedical Informatics and the Pelotonia Institute for Immuno-Oncology at the Ohio State University. We are interested in developing new methods that improve all aspects of the proteomics workflow, from data acquisition, to extraction and statistical analysis. We are dedicated to open methods and open source software, as well as the long-term support for those computational resources for the proteomics and mass spectrometry communities.
 
 ### Human health
 

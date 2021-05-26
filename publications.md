@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Brian's [google scholar citations profile](https://scholar.google.com/citations?user=0EPfe4UAAAAJ).
+For those interested in numbers, see Brian's [Google Scholar citations profile](https://scholar.google.com/citations?user=0EPfe4UAAAAJ).
 
 If you cannot access one of our papers, let us know and we'll try to help. 
 
