@@ -10,7 +10,7 @@ The Searle Lab develops bioinformatics, mass spectrometry, and proteomics techno
 Interpreting data is one of the biggest challenges for researchers in proteomics. We make software to make sense of mass spectrometry data from proteomics and metabolomics datasets. Our work specializes in making data generation and analysis both more approachable and more reproducible. We also have a dedicated mass spectrometry lab where we can develop new data acquisition technologies and run our own experiments at the Pelotonia Institute for Immuno-Oncology. Visit our [research page](../research/) to see more information on each research focus.
 
 ### Lab Members
-Our research group is remarkably interdisciplinary. We have backgounds in bioinformatics, chemistry, biology, statistics, computer science, and many other disciplines. Visit our [people page](../people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our research group is remarkably interdisciplinary. We have backgounds in bioinformatics, chemistry, biology, statistics, computer science, and many other disciplines. Visit our [people page](../people/) to see more information on each person who works in the lab (publications, contact information, photos). If you're interested in joining us, please visit our [available positions and fellowships](../jobs) for more details.
 
 ### Lab Culture
 Our lab is a great place to develop as a scientist. We value…
