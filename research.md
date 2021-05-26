@@ -18,4 +18,4 @@ Our lab works on bioinformatics, mass spectrometry, and proteomics technologies 
 ### Bioinformatics
 
 |-----|-----|
-|<img width="500" src="{{site.baseurl}}/images/research/neuralnetwork.png" data-action="zoom">|<label style="font-weight: 300 !important; width: 400px;">Bioinformatics!</label>|
+|<img width="500" src="{{site.baseurl}}/images/research/neuralnetwork.png" data-action="zoom">|<label style="font-weight: 300 !important; width: 400px;">We use bioinformatics as a key component of all of our work, from developing low-level software for extracting signals from mass spectrometry experiments to building scripts to statistically interpret our biological data. Our focus is on building industry-strength, robust software that broadly enable the research community. You can read more about our current and maintenance supported software projects [here](../software/). Finally, all software projects we build are released under liberal, open source licenses.</label>|
