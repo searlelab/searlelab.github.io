@@ -1,5 +1,5 @@
 ---
-name: PREGO Peptide Response Predictor
+name: PREGO Response Predictor
 position: maintenance
 avatar: prego_image.png
 url: https://bitbucket.org/searleb/prego-srm-response-predictor
@@ -19,5 +19,5 @@ PREGO is a software tool that predicts high responding peptides for SRM experime
 
 Our approach is described in [this talk from ASMS 2015](https://github.com/briansearle/intensity_predictor/blob/master/asms%20talk%202015%20with%20annotations.pdf).
 PREGO is offered as [an external tool for Skyline](https://brendanx-uw1.gs.washington.edu/labkey/skyts/home/software/Skyline/tools/details.view?name=Prego). 
-PREGO is also offered as [a standalone cross platform tool](https://github.com/briansearle/intensity_predictor/tree/master/installers) with both graphical and command line interfaces.
+PREGO is also offered as [a standalone cross platform tool](https://bitbucket.org/searleb/prego-srm-response-predictor/src/master/installers) with both graphical and command line interfaces.
 

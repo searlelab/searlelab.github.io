@@ -7,9 +7,10 @@ joined: 2000
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+(he/him)
 
 - _Assistant Professor, Ohio State University_<br>
-- _Multidisciplinary optimist._
+
 
 ### Contact
 
@@ -21,4 +22,4 @@ Columbus, OH 43210
 
 ### Biography
 
-Brian received his chemistry BA at Reed College in 2001. In 2004, he co-founded Proteome Software with Mark Turner and Dr. Ashley McCormack to produce and distribute cutting-edge data analysis software for proteomicists. In 2014, he returned to academia to earn his PhD with Dr. Michael MacCoss at University of Washington where he developed methods to detect and quantify proteins and phosphosites using mass spectrometry. His research program tries to bridge the gap between genomic and proteomic technologies to study human genetic variation. 
+Brian received his chemistry BA at Reed College in 2001. In 2004, he co-founded Proteome Software with Mark Turner and Dr. Ashley McCormack to produce cutting-edge data analysis software for proteomicists, such as Scaffold. In 2014, he returned to academia to earn his PhD with Dr. Michael MacCoss at University of Washington where he developed methods to detect and quantify proteins and phosphosites using mass spectrometry. He is interested in bridging the gap between genomic and proteomic technologies to study human genetic variation. 
