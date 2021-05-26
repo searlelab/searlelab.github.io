@@ -38,6 +38,8 @@ nav:
     href:           "/software"
 #  - name:           "blog"
 #    href:           "/blog"
+  - name:           "work with us"
+    href:           "/jobs"
 
 # Sass
 sass:
