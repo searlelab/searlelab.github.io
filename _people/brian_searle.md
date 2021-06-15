@@ -14,7 +14,7 @@ joined: 2000
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `searle.30@osu.edu`
+<i class="fa fa-envelope-o"></i> `brian.searle@osumc.edu`
 
 **Office**<br>
 590 BRT, 460 W 12th Ave <br>
