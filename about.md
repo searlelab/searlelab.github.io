@@ -14,12 +14,12 @@ Our research group is remarkably interdisciplinary. We have backgounds in bioinf
 
 ### Lab Culture
 Our lab is a great place to develop as a scientist. We value…
+- Diversity of people, backgrounds, and ideas
 - Independence, cleverness, and tenacity
 - Self learning, but knowing when you need help
-- Communication through papers & conferences
-- Teaching methods and open-source software
+- Communication through papers, conferences, and teaching
 - Cross training, since no one has every skill
 - Helping you make the next move in your career, wherever that will be
 
 ### Source
-The Jekyll source code repository for [Searle lab page](http://searlelab.github.io/) is on Github [here](https://github.com/searlelab/searlelab.github.io). Our lab website code is modified from open source software produced by the [kordinglab.com](http://kordinglab.github.io/).
+The Jekyll source code repository for [Searle lab page](http://searlelab.github.io/) is on Github [here](https://github.com/searlelab/searlelab.github.io). Our lab website code is modified from open source software produced by the [kordinglab.com](http://kordinglab.github.io/). We strongly support and believe in the community benefits of open source software. 
