@@ -1,3 +1,11 @@
+
+
+- date: 2022-03-02
+  details: The lab co-authored a paper with the Swaney lab at UCSF on non-tryptic digestion as a way to improve protein sequence coverage&colon; <a href=https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00960>Data-Independent Acquisition Protease-Multiplexing Enables Increased Proteome Sequence Coverage Across Multiple Fragmentation Modes</a>
+
+- date: 2022-02-23
+  details: Damien published a paper on reproductive proteomics in Frontiers in Cell and Developmental Biology! <a href=https://www.frontiersin.org/articles/10.3389/fcell.2022.828947/full>Recurrent Co-Option and Recombination of Cytokine and Three Finger Proteins in Multiple Reproductive Tissues Throughout Salamander Evolution</a>
+
 - date: 2021-08-03
   details: The lab co-authored a paper on detecting HPV-16 RNA and proteins in brain metastases&colon; <a href=https://www.mdpi.com/1999-4915/13/8/1536>Detection of Human Papillomavirus Integration in Brain Metastases from Oropharyngeal Tumors by Targeted Sequencing</a>
 
@@ -5,5 +13,5 @@
   details: Lab website launched!
 
 - date: 2021-03-17
-  details: Damien published a paper in JPR! <a href=https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00964>CIDer&colon; A Statistical Framework for Interpreting Differences in CID and HCD Fragmentation</a>
+  details: Damien published a paper on a statistical model for fragmentation chemistry in JPR! <a href=https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00964>CIDer&colon; A Statistical Framework for Interpreting Differences in CID and HCD Fragmentation</a>
 
