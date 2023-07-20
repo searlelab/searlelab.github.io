@@ -21,3 +21,7 @@ Scribe provides a new approach to quantification that considers data from multip
 
 The Scribe project has been merged into [EncyclopeDIA](https://bitbucket.org/searleb/encyclopedia), a joint open source project with the same goals. 
 You can now access the latest version of Scribe in [encyclopedia-2.12.30](https://bitbucket.org/searleb/encyclopedia/downloads/encyclopedia-2.12.30-executable.jar) or higher. 
+
+### Citation
+Searle BC, Shannon AE, Wilburn DB.
+Scribe: Next Generation Library Searching for DDA Experiments. J Proteome Res. 2023 Feb 3;22(2):482-490. [Publication](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.2c00672)
