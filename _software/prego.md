@@ -21,3 +21,7 @@ Our approach is described in [this talk from ASMS 2015](https://github.com/brian
 PREGO is offered as [an external tool for Skyline](https://brendanx-uw1.gs.washington.edu/labkey/skyts/home/software/Skyline/tools/details.view?name=Prego). 
 PREGO is also offered as [a standalone cross platform tool](https://bitbucket.org/searleb/prego-srm-response-predictor/src/master/installers) with both graphical and command line interfaces.
 
+
+### Citation
+Searle BC, Egertson JD, Bollinger JG, Stergachis AB, MacCoss MJ.
+Using data independent acquisition (DIA) to model high-responding peptides for targeted proteomics experiments. Mol Cell Proteomics. 2015 Sep;14(9):2331-40. [Publication](https://www.mcponline.org/article/S1535-9476(20)32642-6/fulltext)
