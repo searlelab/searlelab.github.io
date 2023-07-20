@@ -15,7 +15,11 @@ _DIA Site Localization_
 
 ### Description
 
-The human phosphorylation regulatory network represents a complex signaling cascade where proteins can be phosphorylated at multiple sites resulting in different functional states. Here we present Thesaurus, a hybrid search engine that detects, localizes, and quantifies novel positional isomers using site-specific fragment ions directly from data independent acquisition mass spectrometry experiments. This software works for several PTMs in addition to phosphorylation. Check out our paper describing Thesaurus and what it can do at Nature Methods [(Searle et al, 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012383/)!
+The human phosphorylation regulatory network represents a complex signaling cascade where proteins can be phosphorylated at multiple sites resulting in different functional states. Here we present Thesaurus, a hybrid search engine that detects, localizes, and quantifies novel positional isomers using site-specific fragment ions directly from data independent acquisition mass spectrometry experiments. This software works for several PTMs in addition to phosphorylation. 
 
 The Thesaurus project has been merged into [EncyclopeDIA](https://bitbucket.org/searleb/encyclopedia), a joint open source project with the same goals. You can now access the latest version of Thesaurus in [encyclopedia-0.9.5](https://bitbucket.org/searleb/encyclopedia/downloads/encyclopedia-0.9.5-executable.jar) or higher. 
 
+
+### Citation
+Searle BC, Lawrence RT, MacCoss MJ, Villén J.
+Thesaurus: Quantifying phosphopeptide positional isomers. Nat Methods. 2019 Aug;16(8):703-706. [Publication](https://www.nature.com/articles/s41592-019-0498-4)
