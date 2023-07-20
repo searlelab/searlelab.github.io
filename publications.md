@@ -9,7 +9,77 @@ If you cannot access one of our papers, let us know and we'll try to help.
 
 <hr>
 
+### 2023
+
+Allen C, Meinl R, Paez JS, **Searle BC**, Just S, Pino LK, Fondrie WE. _nf-
+encyclopedia: A Cloud-Ready Pipeline for Chromatogram Library Data-Independent
+Acquisition Proteomics Workflows._ J Proteome Res. 2023 Jul 7. doi:
+10.1021/acs.jproteome.2c00613. Epub ahead of print. PMID: 37417926.
+
+Phlairaharn T, Ye Z, Krismer E, Pedersen AK, Pietzner M, Olsen JV, Schoof EM,
+**Searle BC**. _Optimizing Linear Ion-Trap Data-Independent Acquisition toward
+Single-Cell Proteomics._ Anal Chem. 2023 Jul 4;95(26):9881-9891. doi:
+10.1021/acs.analchem.3c00842. Epub 2023 Jun 20. PMID: 37338819.
+
+Kirkpatrick J, Stemmer PM, **Searle BC**, Herring LE, Martin L, Midha MK, Phinney
+BS, Shan B, Palmblad M, Wang Y, Jagtap PD, Neely BA. _2019 Association of
+Biomolecular Resource Facilities Multi-Laboratory Data-Independent Acquisition
+Proteomics Study._ J Biomol Tech. 2023 Jun 2;34(2):3fc1f5fe.9b78d780. doi:
+10.7171/3fc1f5fe.9b78d780. PMID: 37435391; PMCID: PMC10332336.
+
+Li W, Pergande MR, Crutchfield CA, **Searle BC**, Backlund PS, Picache JA,
+Burkert K, Yanjanin-Farhat NM, Blank PS, Toth CL, Wassif CA, Porter FD, Cologna
+SM. _A differential proteomics study of cerebrospinal fluid from individuals with
+Niemann-Pick disease, Type C1._ Proteomics. 2023 Jun;23(11):e2200378. doi:
+10.1002/pmic.202200378. Epub 2023 Jan 26. PMID: 36638187.
+
+Merrihew GE, Park J, Plubell D, **Searle BC**, Keene CD, Larson EB, Bateman R,
+Perrin RJ, Chhatwal JP, Farlow MR, McLean CA, Ghetti B, Newell KL, Frosch MP,
+Montine TJ, MacCoss MJ. _A peptide-centric quantitative proteomics dataset for
+the phenotypic assessment of Alzheimer's disease._ Sci Data. 2023 Apr
+14;10(1):206. doi: 10.1038/s41597-023-02057-7. PMID: 37059743; PMCID:
+PMC10104800.
+
+**Searle BC**, **Shannon AE**, **Wilburn DB**. _Scribe: Next Generation Library Searching
+for DDA Experiments._ J Proteome Res. 2023 Feb 3;22(2):482-490. doi:
+10.1021/acs.jproteome.2c00672. Epub 2023 Jan 25. PMID: 36695531.
+
+Martinez TF, Lyons-Abbott S, Bookout AL, De Souza EV, Donaldson C, Vaughan
+JM, Lau C, Abramov A, Baquero AF, Baquero K, Friedrich D, Huard J, Davis R, Kim
+B, Koch T, Mercer AJ, Misquith A, Murray SA, Perry S, Pino LK, Sanford C, Simon
+A, Zhang Y, Zipp G, Bizarro CV, Shokhirev MN, Whittle AJ, **Searle BC**, MacCoss MJ,
+Saghatelian A, Barnes CA. _Profiling mouse brown and white adipocytes to identify
+metabolically relevant small ORFs and functional microproteins._ Cell Metab. 2023
+Jan 3;35(1):166-183.e11. doi: 10.1016/j.cmet.2022.12.004. PMID: 36599300; PMCID:
+PMC9889109.
+
+### 2022
+
+11: Phlairaharn T, Grégoire S, Woltereck LR, Petrosius V, Furtwängler B, **Searle
+BC**, Schoof EM. _High Sensitivity Limited Material Proteomics Empowered by Data-
+Independent Acquisition on Linear Ion Traps._ J Proteome Res. 2022 Nov
+4;21(11):2815-2826. doi: 10.1021/acs.jproteome.2c00376. Epub 2022 Oct 26. PMID:
+36287219.
+
+12: Richards AL, Chen KH, **Wilburn DB**, Stevenson E, Polacco BJ, **Searle BC**, Swaney
+DL. _Data-Independent Acquisition Protease-Multiplexing Enables Increased
+Proteome Sequence Coverage Across Multiple Fragmentation Modes._ J Proteome Res.
+2022 Apr 1;21(4):1124-1136. doi: 10.1021/acs.jproteome.1c00960. Epub 2022 Mar 2.
+PMID: 35234472; PMCID: PMC9035370.
+
+13: **Wilburn DB**, Kunkel CL, Feldhoff RC, Feldhoff PW, **Searle BC**. _Recurrent Co-
+Option and Recombination of Cytokine and Three Finger Proteins in Multiple
+Reproductive Tissues Throughout Salamander Evolution._ Front Cell Dev Biol. 2022
+Feb 23;10:828947. doi: 10.3389/fcell.2022.828947. PMID: 35281090; PMCID:
+PMC8904931.
+
 ### 2021
+
+McEllin B, **Searle BC**, DePledge L, Sun G, Cobbs C, Karimi M. _Detection of
+Human Papillomavirus Integration in Brain Metastases from Oropharyngeal Tumors
+by Targeted Sequencing._ Viruses. 2021 Aug 3;13(8):1536. doi: 10.3390/v13081536.
+PMID: 34452401; PMCID: PMC8402651.
+
 **Wilburn DB**, Richards AL, Swaney DL, **Searle BC**. _CIDer: A Statistical Framework
 for Interpreting Differences in CID and HCD Fragmentation._ J Proteome Res. 2021
 Apr 2;20(4):1951-1965. doi: 10.1021/acs.jproteome.0c00964. Epub 2021 Mar 17.
