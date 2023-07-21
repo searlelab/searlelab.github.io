@@ -57,11 +57,10 @@ permalink: /people/
 {% else %}
 
 <br>
-<!-- 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
--->
+| [Damien Wilburn](https://www.wilburnlab.com/) | Postdoc (2020 - 2022) | Assistant Professor at The Ohio State University |
+
 
 {% endif %}
 {% endfor %}
