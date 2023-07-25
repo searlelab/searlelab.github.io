@@ -54,6 +54,7 @@ permalink: /people/
 </div>
 <hr>
 
+<!-- 
 {% else %}
 
 <!-- 
@@ -61,7 +62,9 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | ------------- | ------------- | ----------- |
 | [Damien Wilburn](https://www.wilburnlab.com/) | Postdoc (2020 - 2022) | Assistant Professor at The Ohio State University |
--->
+
 
 {% endif %}
+-->
+
 {% endfor %}
