@@ -4,8 +4,11 @@ position: gradstudent
 twitter: 
 joined: 2022
 ---
-
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+{% if page.avatar %}
+  <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+{% else %}
+  <img width="300" src="{{site.baseurl}}/images/people/missing.png" data-action="zoom">
+{% endif %}
 (he/him)
 
 - _Graduate Student, Ohio State University_<br>
