@@ -35,7 +35,6 @@ permalink: /people/
 {% endif %}
 </div>
 
-<!-- {% if role != 'alumni' %} -->
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -53,18 +52,5 @@ permalink: /people/
   {% endfor %}
 </div>
 <hr>
-
-<!-- 
-{% else %}
-
-<!-- 
-<br>
-| Who are they | When were they here | Where they went |
-| ------------- | ------------- | ----------- |
-| [Damien Wilburn](https://www.wilburnlab.com/) | Postdoc (2020 - 2022) | Assistant Professor at The Ohio State University |
-
-
-{% endif %}
--->
 
 {% endfor %}
