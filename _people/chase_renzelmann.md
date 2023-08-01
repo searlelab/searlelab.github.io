@@ -3,7 +3,7 @@ name: Chase Renzelmann
 position: undergradstudent
 avatar: renzelmann_headshot.jpg
 twitter: NA
-joined: NA
+joined: 2022
 ---
 
   <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
