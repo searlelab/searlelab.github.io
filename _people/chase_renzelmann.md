@@ -1,7 +1,7 @@
 ---
 name: Chase Renzelmann
 position: undergradstudent
-avatar: renzelmann_headshot.jpg
+avatar: renzelmann_headshot.png
 twitter: NA
 joined: 2022
 ---
