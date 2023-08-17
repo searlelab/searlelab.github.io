@@ -15,8 +15,8 @@ joined: 2022
 
 <i class="fa fa-envelope-o"></i> `renzelmann.1@buckeyemail.osu.edu`
 
-**Office**<br>
-NA
+### Program
+College of Arts and Sciences
 
 ### Biography
 Biochemistry major class of 2024, hometown: sheboygan, WI
