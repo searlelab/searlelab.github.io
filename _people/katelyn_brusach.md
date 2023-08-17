@@ -9,7 +9,7 @@ joined: 2022
   <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 (she/her)
 
-- _Grarduate, Ohio State University_<br>
+- _Graduate, Ohio State University_<br>
 
 ### Contact
 
