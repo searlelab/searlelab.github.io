@@ -2,14 +2,14 @@
 name: Ariana Shannon
 position: gradstudent
 avatar: shannon_headshot.png
-twitter: @ArianaShannon
+twitter: ArianaShannon
 joined: 2022
 ---
 
   <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-(he/him)
+(she/her)
 
-- _Undergraduate, Ohio State University_<br>
+- _Graduate, Ohio State University_<br>
 
 ### Contact
 
