@@ -7,9 +7,9 @@ joined: 2022
 ---
 
   <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-(he/him)
+(she/her)
 
-- _Undergraduate, Ohio State University_<br>
+- _Grarduate, Ohio State University_<br>
 
 ### Contact
 
