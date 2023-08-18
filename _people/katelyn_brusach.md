@@ -1,6 +1,6 @@
 ---
 name: Katelyn Brusach
-position: gradstudent
+position: graduatestudent
 avatar: brusach_headshot.png
 twitter: NA
 joined: 2022
