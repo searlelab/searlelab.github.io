@@ -1,7 +1,7 @@
 ---
 name: Ariana Shannon
 position: graduatestudent
-avatar: shannon_headshot.png
+avatar: shannon_headshot.jpg
 twitter: ArianaShannon
 joined: 2022
 ---
