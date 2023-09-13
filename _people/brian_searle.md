@@ -9,7 +9,7 @@ joined: 2000
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 (he/him)
 
-- _Assistant Professor, Ohio State University_<br>
+- _<a href="https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/brian-searle">Assistant Professor</a>, Department of Biomedical Informatics, Ohio State University_<br>
 
 
 ### Contact
