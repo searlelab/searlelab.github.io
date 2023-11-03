@@ -5,7 +5,7 @@ twitter:
 joined: 2022
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/joyce_headshot.jpg" data-action="zoom">
 (he/him)
 
 - _Graduate Student, Ohio State University_<br>
