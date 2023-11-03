@@ -1,6 +1,7 @@
 ---
 name: Alex Joyce
 position: graduatestudent
+avatar: joyce_headshot.jpg
 twitter: 
 joined: 2022
 ---
