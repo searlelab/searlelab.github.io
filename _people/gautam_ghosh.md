@@ -14,7 +14,7 @@ joined: 2024
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `gautam1996@gmail.com`
+<i class="fa fa-envelope-o"></i> `ghosh.285@buckeyemail.osu.edu`
 
 ### Biography
 
