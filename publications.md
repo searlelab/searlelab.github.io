@@ -9,47 +9,117 @@ If you cannot access one of our papers, let us know and we'll try to help.
 
 <hr>
 
+### 2025
+
+Gan YJ, Hazel JM, **Searle BC**, Shafaat HS. Selective isotope labeling probes
+the chemical capacity and reaction mechanism of a heterobimetallic Mn/Fe
+protein. J Inorg Biochem. 2025 Apr 23;270:112933. doi:
+10.1016/j.jinorgbio.2025.112933. Epub ahead of print. PMID: 40378440.
+
+**Shannon AE**, Teodorescu RN, Song NJ, Heil LR, Jacob CC, Remes PM, Li Z,
+Rubinstein MP, **Searle BC**. Rapid assay development for low input targeted
+proteomics using a versatile linear ion trap. Nat Commun. 2025 Apr
+23;16(1):3794. doi: 10.1038/s41467-025-58757-8. PMID: 40263265; PMCID:
+PMC12015518.
+
+Rajczewski AT, Blakeley-Ruiz JA, Meyer A, Vintila S, McIlvin MR, Van Den
+Bossche T, **Searle BC**, Griffin TJ, Saito MA, Kleiner M, Jagtap PD. Data-
+Independent Acquisition Mass Spectrometry as a Tool for Metaproteomics:
+Interlaboratory Comparison Using a Model Microbiome. Proteomics. 2025
+May;25(9-10):e202400187. doi: 10.1002/pmic.202400187. Epub 2025 Apr 10. PMID:
+40211604.
+
+**Searle BC**, Chazarin B, Collins BC, Kundu DJ, Huang S, Lin Q, Liu Y, Low TY,
+Saba J, Guo T, Palmisano G, Fert-Bober J. Advancing Scientific Communication in
+Proteomics. J Proteome Res. 2025 Feb 7;24(2):381-382. doi:
+10.1021/acs.jproteome.4c01098. PMID: 39916559.
+
+### 2024
+
+**Searle BC**. Characterizing protein-protein interactions with thermal proteome
+profiling. Curr Opin Struct Biol. 2024 Dec;89:102946. doi:
+10.1016/j.sbi.2024.102946. Epub 2024 Oct 30. PMID: 39481280; PMCID: PMC11602378.
+
+**Ghosh G**, **Shannon AE**, **Searle BC**. Data acquisition approaches for single cell
+proteomics. Proteomics. 2025 Jan;25(1-2):e2400022. doi: 10.1002/pmic.202400022.
+Epub 2024 Aug 1. PMID: 39088833; PMCID: PMC11735665.
+
+Akshintala VS, **Moore MG**, Cruz-Monserrate Z, Nathan JD, **Searle BC**, Abu-El-
+Haija M. Urine Proteomics Profiling Identifies Novel Acute Pancreatitis
+Diagnostic Biomarkers in a Pediatric Population. Gastroenterology. 2024
+Oct;167(5):1019-1021.e2. doi: 10.1053/j.gastro.2024.05.015. Epub 2024 May 24.
+PMID: 38797238; PMCID: PMC11416306.
+
+**Searle BC**. Nanopore Protein Sequencing Achieves Significant New Milestones.
+Clin Chem. 2024 Aug 1;70(8):1006-1008. doi: 10.1093/clinchem/hvae041. PMID:
+38593193.
+
+**Shannon AE**, Boos CE, **Searle BC**, Hummon AB. Gas-Phase Fractionation Data-
+Independent Acquisition Analysis of 3D Cocultured Spheroid Tumor Model Reveals
+Altered Translational Processes and Signaling Using Proteomics. J Proteome Res.
+2024 Aug 2;23(8):3188-3199. doi: 10.1021/acs.jproteome.3c00786. Epub 2024 Feb
+27. PMID: 38412258; PMCID: PMC11296903.
+
+**Joyce AW**, **Searle BC**. Computational approaches to identify sites of
+phosphorylation. Proteomics. 2024 Apr;24(8):e2300088. doi:
+10.1002/pmic.202300088. Epub 2023 Dec 24. PMID: 37897210.
+
 ### 2023
 
-Allen C, Meinl R, Paez JS, **Searle BC**, Just S, Pino LK, Fondrie WE. _nf-
-encyclopedia: A Cloud-Ready Pipeline for Chromatogram Library Data-Independent
-Acquisition Proteomics Workflows._ J Proteome Res. 2023 Jul 7. doi:
-10.1021/acs.jproteome.2c00613. Epub ahead of print. PMID: 37417926.
+Heil LR, Damoc E, Arrey TN, Pashkova A, Denisov E, Petzoldt J, Peterson AC,
+Hsu C, **Searle BC**, Shulman N, Riffle M, Connolly B, MacLean BX, Remes PM, Senko
+MW, Stewart HI, Hock C, Makarov AA, Hermanson D, Zabrouskov V, Wu CC, MacCoss
+MJ. Evaluating the Performance of the Astral Mass Analyzer for Quantitative
+Proteomics Using Data-Independent Acquisition. J Proteome Res. 2023 Oct
+6;22(10):3290-3300. doi: 10.1021/acs.jproteome.3c00357. Epub 2023 Sep 8. PMID:
+37683181; PMCID: PMC10563156.
 
-Phlairaharn T, Ye Z, Krismer E, Pedersen AK, Pietzner M, Olsen JV, Schoof EM,
-**Searle BC**. _Optimizing Linear Ion-Trap Data-Independent Acquisition toward
-Single-Cell Proteomics._ Anal Chem. 2023 Jul 4;95(26):9881-9891. doi:
-10.1021/acs.analchem.3c00842. Epub 2023 Jun 20. PMID: 37338819.
+**Searle BC**, Chien A, Koller A, Hawke D, Herren AW, Kim Kim J, Lee KA, Leib
+RD, Nelson AJ, Patel P, Ren JM, Stemmer PM, Zhu Y, Neely BA, Patel B. A
+Multipathway Phosphopeptide Standard for Rapid Phosphoproteomics Assay
+Development. Mol Cell Proteomics. 2023 Oct;22(10):100639. doi:
+10.1016/j.mcpro.2023.100639. Epub 2023 Aug 30. PMID: 37657519; PMCID:
+PMC10561125.
 
-Kirkpatrick J, Stemmer PM, **Searle BC**, Herring LE, Martin L, Midha MK, Phinney
-BS, Shan B, Palmblad M, Wang Y, Jagtap PD, Neely BA. _2019 Association of
+Kirkpatrick J, Stemmer PM, **Searle BC**, Herring LE, Martin L, Midha MK,
+Phinney BS, Shan B, Palmblad M, Wang Y, Jagtap PD, Neely BA. 2019 Association of
 Biomolecular Resource Facilities Multi-Laboratory Data-Independent Acquisition
-Proteomics Study._ J Biomol Tech. 2023 Jun 2;34(2):3fc1f5fe.9b78d780. doi:
+Proteomics Study. J Biomol Tech. 2023 Jun 2;34(2):3fc1f5fe.9b78d780. doi:
 10.7171/3fc1f5fe.9b78d780. PMID: 37435391; PMCID: PMC10332336.
 
-Li W, Pergande MR, Crutchfield CA, **Searle BC**, Backlund PS, Picache JA,
-Burkert K, Yanjanin-Farhat NM, Blank PS, Toth CL, Wassif CA, Porter FD, Cologna
-SM. _A differential proteomics study of cerebrospinal fluid from individuals with
-Niemann-Pick disease, Type C1._ Proteomics. 2023 Jun;23(11):e2200378. doi:
-10.1002/pmic.202200378. Epub 2023 Jan 26. PMID: 36638187.
+Allen C, Meinl R, Paez JS, **Searle BC**, Just S, Pino LK, Fondrie WE. nf-
+encyclopedia: A Cloud-Ready Pipeline for Chromatogram Library Data-Independent
+Acquisition Proteomics Workflows. J Proteome Res. 2023 Aug 4;22(8):2743-2749.
+doi: 10.1021/acs.jproteome.2c00613. Epub 2023 Jul 7. PMID: 37417926.
+
+**Phlairaharn T**, Ye Z, Krismer E, Pedersen AK, Pietzner M, Olsen JV, Schoof
+EM, **Searle BC**. Optimizing Linear Ion-Trap Data-Independent Acquisition toward
+Single-Cell Proteomics. Anal Chem. 2023 Jul 4;95(26):9881-9891. doi:
+10.1021/acs.analchem.3c00842. Epub 2023 Jun 20. PMID: 37338819.
 
 Merrihew GE, Park J, Plubell D, **Searle BC**, Keene CD, Larson EB, Bateman R,
 Perrin RJ, Chhatwal JP, Farlow MR, McLean CA, Ghetti B, Newell KL, Frosch MP,
-Montine TJ, MacCoss MJ. _A peptide-centric quantitative proteomics dataset for
-the phenotypic assessment of Alzheimer's disease._ Sci Data. 2023 Apr
+Montine TJ, MacCoss MJ. A peptide-centric quantitative proteomics dataset for
+the phenotypic assessment of Alzheimer's disease. Sci Data. 2023 Apr
 14;10(1):206. doi: 10.1038/s41597-023-02057-7. PMID: 37059743; PMCID:
 PMC10104800.
 
-**Searle BC**, **Shannon AE**, **Wilburn DB**. _Scribe: Next Generation Library Searching
-for DDA Experiments._ J Proteome Res. 2023 Feb 3;22(2):482-490. doi:
+**Searle BC**, **Shannon AE**, **Wilburn DB**. Scribe: Next Generation Library Searching
+for DDA Experiments. J Proteome Res. 2023 Feb 3;22(2):482-490. doi:
 10.1021/acs.jproteome.2c00672. Epub 2023 Jan 25. PMID: 36695531.
+
+Li W, Pergande MR, Crutchfield CA, **Searle BC**, Backlund PS, Picache JA,
+Burkert K, Yanjanin-Farhat NM, Blank PS, Toth CL, Wassif CA, Porter FD, Cologna
+SM. A differential proteomics study of cerebrospinal fluid from individuals with
+Niemann-Pick disease, Type C1. Proteomics. 2023 Jun;23(11):e2200378. doi:
+10.1002/pmic.202200378. Epub 2023 Jan 26. PMID: 36638187; PMCID: PMC10918788.
 
 Martinez TF, Lyons-Abbott S, Bookout AL, De Souza EV, Donaldson C, Vaughan
 JM, Lau C, Abramov A, Baquero AF, Baquero K, Friedrich D, Huard J, Davis R, Kim
 B, Koch T, Mercer AJ, Misquith A, Murray SA, Perry S, Pino LK, Sanford C, Simon
 A, Zhang Y, Zipp G, Bizarro CV, Shokhirev MN, Whittle AJ, **Searle BC**, MacCoss MJ,
-Saghatelian A, Barnes CA. _Profiling mouse brown and white adipocytes to identify
-metabolically relevant small ORFs and functional microproteins._ Cell Metab. 2023
+Saghatelian A, Barnes CA. Profiling mouse brown and white adipocytes to identify
+metabolically relevant small ORFs and functional microproteins. Cell Metab. 2023
 Jan 3;35(1):166-183.e11. doi: 10.1016/j.cmet.2022.12.004. PMID: 36599300; PMCID:
 PMC9889109.
 
