@@ -57,8 +57,7 @@ Clin Chem. 2024 Aug 1;70(8):1006-1008. doi: 10.1093/clinchem/hvae041. PMID:
 **Shannon AE**, Boos CE, **Searle BC**, Hummon AB. Gas-Phase Fractionation Data-
 Independent Acquisition Analysis of 3D Cocultured Spheroid Tumor Model Reveals
 Altered Translational Processes and Signaling Using Proteomics. J Proteome Res.
-2024 Aug 2;23(8):3188-3199. doi: 10.1021/acs.jproteome.3c00786. Epub 2024 Feb
-27. PMID: 38412258; PMCID: PMC11296903.
+2024 Aug 2;23(8):3188-3199. doi: 10.1021/acs.jproteome.3c00786. Epub 2024 Feb 27. PMID: 38412258; PMCID: PMC11296903.
 
 **Joyce AW**, **Searle BC**. Computational approaches to identify sites of
 phosphorylation. Proteomics. 2024 Apr;24(8):e2300088. doi:
