@@ -1,6 +1,6 @@
 ---
 name: Ariana Shannon
-position: graduatestudent
+position: postdoc
 avatar: shannon_headshot.jpg
 twitter: ArianaShannon
 joined: 2022
@@ -9,7 +9,7 @@ joined: 2022
   <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 (she/her)
 
-- _Graduate, Ohio State University_<br>
+- _PhD, Ohio State University_<br>
 
 ### Contact
 
