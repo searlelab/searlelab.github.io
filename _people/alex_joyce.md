@@ -1,6 +1,6 @@
 ---
 name: Alex Joyce
-position: graduatestudent
+position: alumni
 avatar: joyce_headshot.jpg
 twitter: 
 joined: 2022
@@ -9,7 +9,7 @@ joined: 2022
 <img width="300" src="{{site.baseurl}}/images/people/joyce_headshot.jpg" data-action="zoom">
 (he/him)
 
-- _Graduate Student, Ohio State University_<br>
+- _Masters from BSGP, Ohio State University_<br>
 
 
 ### Contact
