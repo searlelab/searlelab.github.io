@@ -10,8 +10,16 @@ started: 2025
 
 _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 
-### Download Method Files
+### Description
+MAP-MS takes advantage of parallelization in a trapping MS. In a hybrid Q-Orbitrap, parallelization still occurs: while one ion batch is measured, a new batch is accumulated. The Orbi's small capacity means MS1s accumulate in 1-2 ms, wasting the rest of the ion beam. 
+MAP-MS accumulates pieces of the MS1 mass range in a single spectrum. At first this seems strange, but the benefit is to variably fill each range for a different length of time, allowing the instrument to spend more time on "empty" m/z regions.
+This produces Orbitrap MS1s with nearly 2x the number of peaks and over 2x the dynamic range of "standard" MS1s. 
 
+### Citation
+Phlairaharn T., Shannon AE, Zeng X, Truong DJ, Schoof EM, Ye Z, Searle BC.
+Improving proteomic dynamic range with Multiple Accumulation Precursor Mass Spectrometry (MAP-MS). [bioRxiv](https://doi.org/10.1101/2025.05.14.653938)
+
+### Download Method Files
 **MAP-MS Methods**<br>
 [MAP-MS DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth)<br>
 [MAP-MS DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth)<br>
@@ -33,12 +41,4 @@ _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 [Standard GPF 900-1000]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_900to1000_4mz_90min_EndWash_BCS.meth)<br>
 
 
-### Description
 
-MAP-MS takes advantage of parallelization in a trapping MS. In a hybrid Q-Orbitrap, parallelization still occurs: while one ion batch is measured, a new batch is accumulated. The Orbi's small capacity means MS1s accumulate in 1-2 ms, wasting the rest of the ion beam. 
-MAP-MS accumulates pieces of the MS1 mass range in a single spectrum. At first this seems strange, but the benefit is to variably fill each range for a different length of time, allowing the instrument to spend more time on "empty" m/z regions.
-This produces Orbitrap MS1s with nearly 2x the number of peaks and over 2x the dynamic range of "standard" MS1s. 
-
-### Citation
-Phlairaharn T., Shannon AE, Zeng X, Truong DJ, Schoof EM, Ye Z, Searle BC.
-Improving proteomic dynamic range with Multiple Accumulation Precursor Mass Spectrometry (MAP-MS). [bioRxiv](https://doi.org/10.1101/2025.05.14.653938)
