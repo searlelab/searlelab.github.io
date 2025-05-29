@@ -12,44 +12,26 @@ _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 
 ### Download Method Files
 
-<table>
-  <tr>
-    <th>MAP-MS</th>
-    <th>Standard</th>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth>MAP-MS DDA</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.meth>Standard DDA</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth>MAP-MS DIA</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.meth>Standard DIA</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 400-500</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.meth>Standard GPF 400-500</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_500to600_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 500-600</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_500to600_4mz_90min_EndWash_BCS.meth>Standard GPF 500-600</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_600to700_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 600-700</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_600to700_4mz_90min_EndWash_BCS.meth>Standard GPF 600-700</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_700to800_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 700-800</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_700to800_4mz_90min_EndWash_BCS.meth>Standard GPF 700-800</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_800to900_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 800-900</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_800to900_4mz_90min_EndWash_BCS.meth>Standard GPF 800-900</a></td>
-  </tr>
-  <tr>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_900to1000_4mz_90min_EndWash_BCS.meth>MAP-MS GPF 900-1000</a></td>
-    <td><a href={{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_900to1000_4mz_90min_EndWash_BCS.meth>Standard GPF 900-1000</a></td>
-  </tr>
-</table>
+**MAP-MS Methods**<br>
+[MAP-MS DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth)<br>
+[MAP-MS DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 500-600]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_500to600_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 600-700]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_600to700_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 700-800]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_700to800_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 800-900]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_800to900_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS GPF 900-1000]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_900to1000_4mz_90min_EndWash_BCS.meth)<br>
+
+**Standard Methods**<br>
+[Standard DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.meth)<br>
+[Standard DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.meth)<br>
+[Standard GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.meth)<br>
+[Standard GPF 500-600]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_500to600_4mz_90min_EndWash_BCS.meth)<br>
+[Standard GPF 600-700]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_600to700_4mz_90min_EndWash_BCS.meth)<br>
+[Standard GPF 700-800]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_700to800_4mz_90min_EndWash_BCS.meth)<br>
+[Standard GPF 800-900]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_800to900_4mz_90min_EndWash_BCS.meth)<br>
+[Standard GPF 900-1000]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_900to1000_4mz_90min_EndWash_BCS.meth)<br>
+
 
 ### Description
 
