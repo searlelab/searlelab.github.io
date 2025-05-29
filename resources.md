@@ -3,7 +3,7 @@ title: Resources
 permalink: /resources/
 ---
 
-{% assign people_sorted = site.resource | sort: 'started' %}
+{% assign people_sorted = site.resources | sort: 'started' %}
 {% assign role_array = "active|maintenance|deprecated" | split: "|" %}
 
 {% for role in role_array %}
