@@ -23,7 +23,7 @@ _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 
 ### Description
 
-MAP-MS takes advantage of parallelization in a trapping MS. In a hybrid Q-Orbitrap, parallelization still occurs: while one ion batch are measured, a new batch are accumulated. The Orbi's small capacity means MS1s accumulate in 1-2 ms, wasting the rest of the ion beam. 
+MAP-MS takes advantage of parallelization in a trapping MS. In a hybrid Q-Orbitrap, parallelization still occurs: while one ion batch is measured, a new batch is accumulated. The Orbi's small capacity means MS1s accumulate in 1-2 ms, wasting the rest of the ion beam. 
 MAP-MS accumulates pieces of the MS1 mass range in a single spectrum. At first this seems strange, but the benefit is to variably fill each range for a different length of time, allowing the instrument to spend more time on "empty" m/z regions.
 This produces Orbitrap MS1s with nearly 2x the number of peaks and over 2x the dynamic range of "standard" MS1s. 
 
