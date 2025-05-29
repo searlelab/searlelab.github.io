@@ -71,6 +71,12 @@ defaults:
       type:         "software"
     values:
       layout:       "profile"
+  -
+    scope:
+      path:         ""
+      type:         "resources"
+    values:
+      layout:       "profile"
 
 
 collections:
