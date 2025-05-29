@@ -86,3 +86,6 @@ collections:
   software:
     output: true
     permalink: /software/:title/index.html
+  resources:
+    output: true
+    permalink: /resources/:title/index.html
