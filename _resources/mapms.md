@@ -2,6 +2,7 @@
 name: MAP-MS
 position: active
 avatar: mapms_image.png
+url: https://searlelab.github.io
 started: 2025
 ---
 
