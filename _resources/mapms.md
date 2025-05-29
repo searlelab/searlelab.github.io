@@ -11,8 +11,9 @@ started: 2025
 _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 
 ### Download Method Files
-|MAP-MS|Standard|
-| -------- | ------- |
+
+| MAP-MS | Standard |
+| :-------- | :------- |
 |[MAP-MS DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth)|[Standard DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.meth)|
 |[MAP-MS DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth)|[Standard DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.meth)|
 |[MAP-MS GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.meth)|[Standard GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.meth)|
