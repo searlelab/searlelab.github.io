@@ -6,7 +6,7 @@ url: https://searlelab.github.io
 started: 2025
 ---
 
-<img width="300" src="{{site.baseurl}}/images/resources/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/resources/mapms_zoom.png" data-action="zoom">
 
 _Multiple Accumulation Precursor Mass Spectrometry (MAP-MS)_
 
