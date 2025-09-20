@@ -16,14 +16,15 @@ MAP-MS accumulates pieces of the MS1 mass range in a single spectrum. At first t
 This produces Orbitrap MS1s with nearly 2x the number of peaks and over 2x the dynamic range of "standard" MS1s. 
 
 ### Citation
-Phlairaharn T., Shannon AE, Zeng X, Truong DJ, Schoof EM, Ye Z, Searle BC.
-Improving proteomic dynamic range with Multiple Accumulation Precursor Mass Spectrometry (MAP-MS). [bioRxiv](https://doi.org/10.1101/2025.05.14.653938)
+Phlairaharn T., Shannon AE, Zeng X, Truong DJ, Schoof EM, Ye Z, Searle BC.<br>
+Improving proteomic dynamic range with Multiple Accumulation Precursor Mass Spectrometry (MAP-MS).<br>
+[J Proteome Res. 2025 Sep 12. doi: 10.1021/acs.jproteome.5c00469.](https://pubmed.ncbi.nlm.nih.gov/40940309/)
 
 ### Download Method Files
 **MAP-MS Methods**<br>
-[MAP-MS DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth)<br>
-[MAP-MS DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth)<br>
-[MAP-MS GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.meth)<br>
+[MAP-MS DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDDA_90min_EndWash_BCS.pdf)\)<br>
+[MAP-MS DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpDIA_16mzst_90min_EndWash_BCS.pdf)\)<br>
+[MAP-MS GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_400to500_4mz_90min_EndWash_BCS.pdf)\)<br>
 [MAP-MS GPF 500-600]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_500to600_4mz_90min_EndWash_BCS.meth)<br>
 [MAP-MS GPF 600-700]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_600to700_4mz_90min_EndWash_BCS.meth)<br>
 [MAP-MS GPF 700-800]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_700to800_4mz_90min_EndWash_BCS.meth)<br>
@@ -31,9 +32,9 @@ Improving proteomic dynamic range with Multiple Accumulation Precursor Mass Spec
 [MAP-MS GPF 900-1000]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_6xpGPFDIA_900to1000_4mz_90min_EndWash_BCS.meth)<br>
 
 **Standard Methods**<br>
-[Standard DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.meth)<br>
-[Standard DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.meth)<br>
-[Standard GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.meth)<br>
+[Standard DDA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDDA_90min_EndWash_BCS.pdf)\)<br>
+[Standard DIA]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_NormDIA_16mzst_90min_EndWash_BCS.pdf)\)<br>
+[Standard GPF 400-500]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.meth) \([PDF]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_400to500_4mz_90min_EndWash_BCS.pdf)\)<br>
 [Standard GPF 500-600]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_500to600_4mz_90min_EndWash_BCS.meth)<br>
 [Standard GPF 600-700]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_600to700_4mz_90min_EndWash_BCS.meth)<br>
 [Standard GPF 700-800]({{site.baseurl}}/resources/mapms/Exploris_Aurora_25cm_max4uL_GPFDIA_700to800_4mz_90min_EndWash_BCS.meth)<br>
