@@ -2,7 +2,7 @@
 name: Chase Renzelmann
 position: alumni
 avatar: renzelmann_headshot.png
-twitter: NA
+twitter:
 joined: 2022
 ---
 
@@ -13,4 +13,4 @@ joined: 2022
 Undergraduate Biochemistry, College of Arts and Sciences, Ohio State University
 
 ### Biography
-Biochemistry major class of 2024, hometown: Sheboygan, WI
+Chase was awarded his Bachelor's Degree in Biochemistry in 2024.
