@@ -8,8 +8,10 @@ joined: 2020
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 (he/him)
-- Was a _Post Doctoral Scholar_
-- Now [_Assistant Professor, Ohio State University_](https://www.wilburnlab.com/)<br>
+
+### Position
+Damien was a _Post Doctoral Scholar_ in the Searle Lab from 2020 to 2022.
+Now he is an [_Assistant Professor, Ohio State University_](https://www.wilburnlab.com/)<br>
 
 ### Contact
 
