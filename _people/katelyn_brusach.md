@@ -10,13 +10,11 @@ joined: 2022
 (she/her)
 
 - _PhD, Ohio State University_<br>
+- _Postdoctoral Research Fellow, Mayo Clinic_<br>
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `Brusach.1@osu.edu`
-
-### Program
-Comparative Biomedical Sciences
+<i class="fa fa-envelope-o"></i> `Brusach.Katelyn@mayo.edu`
 
 ### Area of Research
 Biomarkers of chronic kidney disease in cats
