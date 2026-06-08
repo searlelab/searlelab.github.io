@@ -9,7 +9,7 @@ joined: 2000
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 (he/him)
 
-- _Career Scientist, [Division of Computational Biology](https://www.mayo.edu/research/departments-divisions/computational-biology/overview), [Department of Quantitative Health Sciences](https://www.mayo.edu/research/departments-divisions/quantitative-health-sciences/overview), Mayo Clinic_<br>
+- _Associate Professor, [Division of Computational Biology](https://www.mayo.edu/research/departments-divisions/computational-biology/overview), [Department of Quantitative Health Sciences](https://www.mayo.edu/research/departments-divisions/quantitative-health-sciences/overview), Mayo Clinic_<br>
 
 
 ### Contact
