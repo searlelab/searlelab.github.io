@@ -10,13 +10,11 @@ joined: 2022
 (she/her)
 
 - _PhD, Ohio State University_<br>
+- _ Postdoctoral Research Fellow, Mayo Clinic Graduate School of Biomedical Sciences_<br>
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `shannon.225@osu.edu`
-
-### Program
-Ohio State Biochemistry Program
+<i class="fa fa-envelope-o"></i> `shannon.ariana@mayo.edu`
 
 ### Biography
-Ariana Shannon recieved a B.A. in Chemistry and Biochemistry, with a minor in Biology, from Capital University in 2019. During her time at Capital, she studied under Dr. Tracey Murray, determining binding sensitivity of riboflavin binding protein to divalent cations, and Dr. Jennifer Larson, determining the prevalence of antibiotic resistance of beta-lactamase bacteria on supermarket meat. Shannon began her PhD in 2019, and joined the lab of Dr. Amanda Hummon. In the Hummon lab, she has used proteomics to analyze 3D complex cell culture models. In 2022, she became co-advised by Dr. Brian Searle, where she develops methods to analyze immuno-oncology systems.
+Ariana Shannon received a B.A. in Chemistry and Biochemistry from Capital University in 2019, where she conducted undergraduate research in protein biochemistry and antimicrobial resistance. She began her PhD in 2019 in the lab of Dr. Amanda Hummon, applying mass spectrometry–based proteomics to characterize complex 3D cell culture systems and tumor biology. In 2024, she joined the lab of Dr. Brian Searle as a postdoctoral fellow and, in 2025, continued this work at the Mayo Clinic, where she develops proteomics and computational methods to study immuno-oncology, disease heterogeneity, and other complex biological systems, with an emphasis on improving analytical approaches for mass spectrometry–based data.
