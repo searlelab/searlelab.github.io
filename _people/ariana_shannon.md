@@ -10,7 +10,7 @@ joined: 2022
 (she/her)
 
 - _PhD, Ohio State University_<br>
-- _ Postdoctoral Research Fellow, Mayo Clinic Graduate School of Biomedical Sciences_<br>
+- _Postdoctoral Research Fellow, Mayo Clinic Graduate School of Biomedical Sciences_<br>
 
 ### Contact
 
