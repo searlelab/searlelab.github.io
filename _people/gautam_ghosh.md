@@ -9,7 +9,7 @@ joined: 2024
 <img width="300" src="{{site.baseurl}}/images/people/ghosh_headshot.jpg" data-action="zoom">
 (he/him)
 
-- _Graduate Student, Ohio State University_<br>
+- _Graduate Student, Mayo Clinic Graduate School of Biomedical Sciences_<br>
 
 
 ### Contact
